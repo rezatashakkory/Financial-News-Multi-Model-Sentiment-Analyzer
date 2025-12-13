@@ -54,11 +54,11 @@ With performance metrics:
 
 ## Project Structure
 ```
-Final Project/
-  Code/
-    app.py
-  requirements.txt
-  README.md
+
+Code/
+ Final_app.py
+requirements.txt
+README.md
 ```
 
 ## Setup (Windows, Command Prompt - cmd)
@@ -179,12 +179,10 @@ Click **"🚀 Analyze"** button and wait for model inference (~5-30 seconds depe
 
 ## Project Structure
 ```
-Final Project/
-├── Code/
-│   ├── Final_app.py        # Main multi-model sentiment analyzer (USE THIS)
-│   └── app.py              # Alternative: basic single-model version
-├── requirements.txt         # Python dependencies (all 7 models)
-└── README.md               # This documentation
+Code/
+   ├── Final_app.py        # Main multi-model sentiment analyzer (USE THIS)
+requirements.txt         # Python dependencies (all 7 models)
+README.md               # This documentation
 ```
 
 **Primary Application**: `Code/Final_app.py` (recommended)
@@ -285,3 +283,4 @@ MIT License - see LICENSE file for details
 - **yiyanghkust** for FinBERT-Tone model
 - **Streamlit** for interactive web framework
 - **Course Instructor** for project guidance
+
