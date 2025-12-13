@@ -1,0 +1,20 @@
+# Core Framework
+streamlit>=1.32
+
+# NLP & ML
+transformers>=4.44
+torch>=2.3
+scikit-learn>=1.4
+
+# Data Processing
+pandas>=2.2
+numpy>=1.26
+
+# Visualization
+plotly>=5.22
+
+# Financial Data
+yfinance>=0.2
+
+# Additional (optional for Excel support)
+openpyxl>=3.1
