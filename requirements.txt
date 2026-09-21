@@ -2,9 +2,10 @@
 streamlit>=1.32
 
 # NLP & ML
-transformers>=4.44
+transformers==4.44.2
 torch>=2.3
 scikit-learn>=1.4
+sentencepiece>=0.2
 
 # Data Processing
 pandas>=2.2

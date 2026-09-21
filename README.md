@@ -1,5 +1,7 @@
 # Financial News Multi-Model Sentiment Analyzer
 
+> **New here? Check the [`Preview/`](Preview/) folder first** to see the app in action before reading further or setting anything up.
+
 An advanced NLP application demonstrating **multi-model sentiment analysis** with comprehensive evaluation metrics for financial news headlines. Built for reproducible research and educational purposes.
 
 **Course**: Natural Language Processing in Data Science  
